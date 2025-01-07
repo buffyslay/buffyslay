@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buffyslay
+- 👋 Hi, I’m Luke 
 - 👀 I’m interested in learning more about coding and cybersecurity :3
 - 🌱 I’m currently learning Computer Information Technology 
 - 😄 Pronouns: He/him
